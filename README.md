@@ -1,8 +1,4 @@
 # NeuroSQL-Healthcare-Assistant
-Neuro SQL is an AI-powered assistant that converts natural language into optimized SQL queries. Supports multiple databases, offers schema-aware suggestions, and helps developers, analysts, and non-technical users interact with data faster, easier, and with fewer errors.
-
-
-# NeuroSQL-Healthcare-Assistant
 
 NeuroSQL is an AI-powered assistant that converts natural language into optimized SQL queries. It supports multiple databases, offers schema-aware suggestions, and helps developers, analysts, and non-technical users interact with data faster, easier, and with fewer errors.
 
@@ -59,7 +55,7 @@ Follow these steps to install and configure the NeuroSQL Healthcare Assistant:
 ## Usage
 1. **Run the Application**
     ```bash
-    python main.py
+    python login_page.py
     ```
 2. **Enter Your Query**
     Example:
