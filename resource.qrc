@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image (2).png</file>
+    <file>flow-chart.png</file>
+    <file>image (1).png</file>
+    <file>diagram.png</file>
+    <file>icons/A logo for a project focused on SQL and database concepts with a white plain background.png</file>
+    <file>icons/A single logo per image for a project focused on SQL and database concepts.png</file>
+    <file>icons/add-512 (1).png</file>
+    <file>icons/add-512.png</file>
+    <file>icons/Alternative icon for a GUI module_ API Key Implemented Query Generator, with a white background..png</file>
+    <file>maximize (1).png</file>
+    <file>icons8-maximize-button-96.png</file>
+    <file>icons/Arrow Pointing into Table Row_ A table icon with an arrow inserting a new row, representing inserting new data into a dataset, with a white background..png</file>
+    <file>icons/arrow-up.png</file>
+    <file>icons/available-updates-512 (1).png</file>
+    <file>icons/available-updates-512.png</file>
+    <file>icons/brain-512 (1).png</file>
+    <file>icons/brain-512.png</file>
+    <file>icons/delete-512 (1).png</file>
+    <file>icons/delete-512.png</file>
+    <file>icons/Icon for a GUI module_ API Key Implemented Query Generator, with a white background..png</file>
+    <file>icons/image.png</file>
+    <file>icons/logo_removed_background.png</file>
+    <file>icons/Magnifying Glass Over Database_ A cylindrical database icon with a magnifying glass overlay, representing scanning and retrieving specific information, with a white background..png</file>
+    <file>icons/menu-4-512.png</file>
+    <file>icons/output-onlinepngtools.png</file>
+    <file>icons/power-off.png</file>
+    <file>icons/read-message-512 (1).png</file>
+    <file>icons/read-message-512.png</file>
+    <file>icons/Simple 2D icon for a GUI module_ Query Executor for Update queries, with a white background, using only black and white colors..png</file>
+    <file>icons/trash-9-512.png</file>
+    <file>icons/TRASHB~1.PNG</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,109 @@
+
+/*= Style for mainwindow START =============================================== */
+#MainWindow {
+    background-color: #fff;
+}
+/*= END ====================================================================== */
+
+
+/*= Style for button to change menu style START ============================== */
+#change_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+/*= END ====================================================================== */
+
+
+/*= Style for header widget START =========================================== */
+#widget {
+    background-color: #f9fafd;
+}
+/*= END ====================================================================== */
+
+
+/*= Style for menu with icon only START ===================================== */
+/* style for widget */
+#icons_only_widget {
+    background-color: #313a46;
+    width: 50px;
+}
+
+/* style for QPushButton and QLabel */
+#icons_only_widget QPushButton, QLabel {
+    height: 50px;
+    border: none;
+    /* border-bottom: 1px solid #b0b0b0; */
+}
+
+#icons_only_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+/* style for logo image */
+#label {
+    padding: 5px;
+}
+/*= END ====================================================================== */
+
+
+/*= Style for menu with icon and text START ================================= */
+/* style for widget */
+#full_menu_widget {
+    background-color: #313a46;
+}
+/*= END ====================================================================== */
+
+#full_menu_widget QPushButton{
+    border = none;
+    border-radius: 3px;
+    text-align: left;
+    padding : 8px 0 8px 15px;
+    color: #788596;
+}
+
+#full_menu_widget QPushButton:hover{
+    background-color : rgba(86,101,115,0.5);
+
+}
+
+#full_menu_widget QPushButton:checked {
+    color:#fff;
+}
+
+#label_2 {
+    padding : 5px;
+    color:#fff;
+}
+
+#label_3 {
+   padding-right : 10px;
+   color:#fff;
+}
+
+#exit_btn_2{
+    color : #fff;
+}
+
+#widget{
+    background-color : #4B4B4B;
+}
+
+/* Input QTextEdit (e.g., main_ai_input, select_ai_input, etc.) */ QTextEdit#main_ai_input, QTextEdit#select_ai_input, QTextEdit#insert_ai_input, QTextEdit#delete_ai_input, QTextEdit#update_ai_input, QTextEdit#schema_ai_input, QTextEdit#select_manual_input, QTextEdit#insert_manual_input, QTextEdit#delete_manual_input, QTextEdit#update_manual_input, QTextEdit#schema_manual_input { background-color: #d3dfe4; border: none; border-radius: 5px; padding: 8px; color:rgb(0, 0, 0); }
+
+/* Result QTextEdit (e.g., main_ai_result, select_ai_result, etc.) */ QTextEdit#main_ai_result, QTextEdit#select_ai_result, QTextEdit#insert_ai_result, QTextEdit#delete_ai_result, QTextEdit#update_ai_result, QTextEdit#schema_ai_result, QTextEdit#select_manual_result, QTextEdit#insert_manual_result, QTextEdit#delete_manual_result, QTextEdit#update_manual_result, QTextEdit#schema_manual_result { background-color: #e6ecef; border: none; border-radius: 5px; padding: 8px; color:rgb(0, 0, 0);}
+
+/* Scroll Bars for QTextEdit */ QTextEdit QScrollBar:vertical { background: #d3dfe4; width: 10px; margin: 0px; border: none; }
+
+QTextEdit QScrollBar::handle:vertical { background: #bdc3c7; min-height: 20px; border-radius: 5px; border: none; }
+
+QTextEdit QScrollBar::add-line:vertical, QTextEdit QScrollBar::sub-line:vertical { background: none; border: none; }
+
+#label_5{
+    color : #FFD700;
+}
+
+#label_4,#select_ai_label,#label_10,#label_11,#label_13,#label_14,#label_16,#label_17,#label_19,#label_20,#label_22{
+    color :#B0B0B0;
+}
