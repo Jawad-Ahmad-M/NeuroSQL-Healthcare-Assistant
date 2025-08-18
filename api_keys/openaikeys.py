@@ -4,7 +4,7 @@ import time
 # Set up the genai client with your API key
 # client = genai.Client(api_key="AIzaSyB5MRSzXlaxeV4YPgb7wq15mAtHvFKVOjg")
 
-genai.configure(api_key="AIzaSyB5MRSzXlaxeV4YPgb7wq15mAtHvFKVOjg")
+genai.configure(api_key="Place you own api key here")
 
 model = genai.GenerativeModel("gemini-pro") 
 model_flash = genai.GenerativeModel("gemini-2.0-flash")

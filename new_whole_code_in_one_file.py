@@ -183,7 +183,7 @@ from google import genai
 import time
 
 # Set up the genai client with your API key
-client = genai.Client(api_key="AIzaSyB5MRSzXlaxeV4YPgb7wq15mAtHvFKVOjg")
+client = genai.Client(api_key="Place your Own Key here.")
 
 # Create a list to store the generated SQL queries
 sql_queries = []
